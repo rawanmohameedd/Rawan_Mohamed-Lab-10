@@ -1,3 +1,1 @@
-function multiply (a,b){
-    return a*b
-}
+let multipli = (a,b)=>{ return a*b}
